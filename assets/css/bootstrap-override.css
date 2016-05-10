@@ -1,0 +1,44 @@
+#nav{
+	height:79px;
+}
+
+h2{
+	margin:0;
+	padding:0;
+}
+
+#site-logo {
+    background-color: #4aaaa5;
+    color: #eee;
+    font-size: 40px;
+    width: 246px;
+    border-color: #ccc;
+    margin-left: 153px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.panel-body{
+	padding:0;
+	padding-top: 5px;
+}
+
+#profile-image {
+    height: 200px;
+    width: 200px;
+}
+
+#github {
+    width: 50px;
+    height: 50px;
+}
+
+#linkedin {
+    width: 50px;
+    height: 50px;
+}
+
+#stackicon {
+    width: 60px;
+    height: 60px;
+}
